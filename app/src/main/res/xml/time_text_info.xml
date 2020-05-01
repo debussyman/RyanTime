@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/time_text"
+    android:initialLayout="@layout/time_text"
+    android:minWidth="110dp"
+    android:minHeight="180dp"
+    android:previewImage="@drawable/ryan_time"
+    android:updatePeriodMillis="6000"
+    android:widgetCategory="home_screen|keyguard" />
